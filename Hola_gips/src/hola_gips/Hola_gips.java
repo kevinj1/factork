@@ -22,7 +22,8 @@ public class Hola_gips {
         nombre = JOptionPane.showInputDialog("Ingrese su nombre");
                
         JOptionPane.showMessageDialog(null,"hola"+ nombre+" como estas");
-                
+         
+        JOptionPane.showMessageDialog(null,"hola ya hize un cambio desde gip");      
     }
     
 }
